@@ -1,5 +1,5 @@
 # CORE Offer Architecture
-## Version 5.0
+## Version 5.0 — Community Reconciled
 
 ### Purpose
 
@@ -20,7 +20,7 @@ It also resolves the relationship between:
 - Golden Thread
 - Organisational System
 
-This document is the commercial **source of truth for the three offers**.
+This document is the commercial **source of truth for the three transformations and their commercial access architecture**.
 
 ---
 
@@ -62,6 +62,49 @@ The important distinction is:
 > **₹5L is not merely a larger validation programme.**
 
 ---
+
+# 2A. Decide With CORE — Owned Community Layer
+
+CORE now includes an owned community environment between the ₹499 entry product and the ₹39,999 Idea → Market programme.
+
+### Product
+
+> **Decide With CORE**
+
+### Price
+
+> **₹7,999 one-time access**
+
+### Role
+
+The community is an **environment**, not a fourth transformation. It combines: 
+
+- premium versions of the public CORE ecosystem;
+- Decide+ as an applied thinking capability;
+- scenarios and recurring practice;
+- live sessions;
+- peer discussion and member-to-member learning;
+- tools, cases and working material;
+- relationships, introductions and community intelligence.
+
+### Commercial position
+
+> **₹499 creates a structured opportunity.**
+> 
+> **₹7,999 creates access to the deeper CORE environment.**
+> 
+> **₹39,999 moves a meaningful idea toward market reality.**
+> 
+> **₹5L builds the organisation that the product/business deserves.**
+
+### Eligibility rule
+
+The ₹39,999 programme is available **only to Decide With CORE members**. This is a membership eligibility rule, not a claim that the community is merely a payment gate. The community must have independent value.
+
+### Important boundary
+
+The community does not replace the three commercial transformations. It provides the **environment in which capability, participation, relationships and progression can compound**.
+
 
 # 3. ₹499 — CORE Essentials
 
@@ -670,7 +713,7 @@ Maturity and organisational need are primary.
 
 The correct architecture is **not**:
 
-> ₹499 → ₹39,999 → ₹5L
+> ₹499 → Decide With CORE → ₹39,999 → ₹5L
 
 as a mandatory funnel.
 
@@ -684,7 +727,9 @@ It is:
 > → ₹499
 
 ### State B
-> **Idea**
+> **Idea / Ready for deeper market work**
+>
+> → Decide With CORE
 >
 > → ₹39,999
 
@@ -698,6 +743,17 @@ A successful ₹39,999 customer may later become a ₹5L customer.
 But the ₹5L business must also be built independently through qualified mature organisations.
 
 ---
+
+# 27A. Community Access State
+
+### Community state
+
+> **Wants an ongoing environment for learning, participation, scenarios, premium content and relationships**
+>
+> → **₹7,999 Decide With CORE**
+
+Community membership then makes the person eligible for the ₹39,999 Idea → Market programme when the Idea-state qualification is met.
+
 
 # 28. Opportunity Discovery vs Idea-to-Market vs Organisational System
 
@@ -930,6 +986,8 @@ The ₹5L programme is deliberately different:
 Therefore:
 
 > **₹499 creates the opportunity idea.**
+>
+> **₹7,999 provides the owned environment for continued development, participation and access.**
 >
 > **₹39,999 takes the idea toward market reality.**
 >

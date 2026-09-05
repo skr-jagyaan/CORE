@@ -19,20 +19,19 @@ The canonical intellectual spine remains:
 
 > **SIGNAL → IDEA → MARKET → ORGANISATION**
 
-The channels do not represent four separate brands. They are different windows into the same body of work.
+There are seven public publishing channels. Decide With CORE is a separate owned community environment, not a public publishing channel. The channels do not represent separate brands. They are different windows into the same body of work.
 
 ## 2. Channel architecture at a glance
 
-| Channel | Name | Primary role | Core audience experience |
+| Public channel | Name | Primary role | Core audience experience |
 | --- | --- | --- | --- |
-| LinkedIn | **Sudharsan K R** | Distribution, conversation and relationship engine | “I can see how a strategist thinks.” |
+| LinkedIn | **Sudharsan K R** | Distribution, conversation and relationship engine | “I can see how this thinking works.” |
 | Free Newsletter | **Decide** | Business situation interpretation and diagnosis | “I understand what is really happening.” |
-| Paid Newsletter | **Decide+** | Structured strategic thinking and application | “I know how to think through this.” |
 | Personal Website / Blog | **Confluence of Enterprise Capabilities** | Evidence, research and enterprise-level analysis | “I can see how this works in reality.” |
 | Medium | **Ideas for Enduring Advantage** | Strategic ideas and provocative insights | “Here is an idea that changes how I think.” |
 | Substack | **Signals & Strategy** | Ongoing interpretation of signals and strategic implications | “What are we seeing, and what might it mean?” |
-| Podcast | **Strategic Systems Thinking** | Reflective, long-form strategic thinking | “I have spent time thinking like a strategist.” |
-| YouTube | **Manufacturing Strategy Series** | Visual demonstration and practical application | “I can see strategy come alive.” |
+| Podcast | **Strategic Systems Thinking** | Reflective, long-form strategic thinking | “I have spent time thinking deeply about this.” |
+| YouTube | **Manufacturing Strategy Series** | Visual demonstration and practical application | “I can see this applied in the real world.” |
 
 ## 3. Channel roles
 
@@ -115,9 +114,9 @@ Decide builds the habit of looking beneath the obvious answer before committing 
 
 ---
 
-# CHANNEL 03 — Decide+
+## DECIDE+ — PREMIUM CAPABILITY INSIDE THE COMMUNITY
 
-**Type:** Paid newsletter / applied thinking environment  
+**Type:** Premium member capability inside Decide With CORE  
 **Primary role:** Develop structured strategic-thinking capability.
 
 ### Core purpose
@@ -149,11 +148,11 @@ Facilitative, interactive, reflective, evidence-driven and educational.
 
 ### Strategic function
 
-Decide+ converts passive understanding into reusable strategic thinking capability.
+Decide+ converts passive understanding into reusable strategic thinking capability **inside the community**. It is not a standalone public channel.
 
 ---
 
-# CHANNEL 04 — Confluence of Enterprise Capabilities
+# CHANNEL 03 — Confluence of Enterprise Capabilities
 
 **Type:** Personal website / canonical analytical publication  
 **Primary role:** Demonstrate how enterprise capabilities operationalise strategy.
@@ -192,7 +191,7 @@ Confluence provides the empirical and analytical depth behind the broader CORE s
 
 ---
 
-# CHANNEL 05 — Ideas for Enduring Advantage
+# CHANNEL 04 — Ideas for Enduring Advantage
 
 **Type:** Medium publication  
 **Primary role:** Develop and distribute memorable strategic ideas.
@@ -228,7 +227,7 @@ Ideas for Enduring Advantage establishes and spreads the intellectual arguments 
 
 ---
 
-# CHANNEL 06 — Signals & Strategy
+# CHANNEL 05 — Signals & Strategy
 
 **Type:** Substack publication  
 **Primary role:** Interpret emerging signals and explore their strategic meaning.
@@ -272,7 +271,7 @@ Signals & Strategy strengthens the **SIGNAL → IDEA** part of the CORE journey 
 
 ---
 
-# CHANNEL 07 — Strategic Systems Thinking
+# CHANNEL 06 — Strategic Systems Thinking
 
 **Type:** Podcast  
 **Primary role:** Give the audience extended time inside strategic reasoning.
@@ -310,7 +309,7 @@ Strategic Systems Thinking develops depth, trust and intellectual affinity with 
 
 ---
 
-# CHANNEL 08 — Manufacturing Strategy Series
+# CHANNEL 07 — Manufacturing Strategy Series
 
 **Type:** YouTube  
 **Primary role:** Demonstrate strategy visually through manufacturing and advanced industries.
@@ -349,6 +348,40 @@ YouTube provides proof through demonstration rather than explanation alone.
 
 ---
 
+## 3A. Decide With CORE — Owned Community Environment
+
+**Type:** Owned community / member environment  
+**Primary role:** Turn the public intellectual ecosystem into deeper participation, application, relationships and accumulated shared value.
+
+The community is **not another public publishing channel**. It is the environment where members access the premium expression of the ecosystem.
+
+### Community components
+
+- Decide+
+- premium/member editions of the public publications
+- scenarios and scenario rooms
+- decision and case rooms
+- live sessions
+- member questions and discussions
+- tools, cases and working material
+- member-to-member relationships and introductions
+
+### Core experience
+
+> **See → Explore → Discuss → Apply → Reassess → Learn → Connect → Return**
+
+### Commercial relationship
+
+> **₹7,999 one-time access**
+
+The ₹39,999 Idea → Market programme is available only to community members.
+
+### Boundary
+
+The community should not become a course archive, a generic networking group, or a sales funnel disguised as community.
+
+---
+
 ## 4. How the channels work together
 
 The channels should not form a rigid customer funnel. They form an intellectual ecosystem.
@@ -370,9 +403,7 @@ SITUATION / DIAGNOSIS
         ↓
 Decide
         ↓
-STRUCTURED THINKING
-        ↓
-Decide+
+STRUCTURED THINKING / COMMUNITY PRACTICE
         ↓
 DEMONSTRATION
         ↓
@@ -413,7 +444,7 @@ A canonical idea may therefore become:
 - a developing interpretation in Signals & Strategy;
 - a structured situation review in Decide;
 - a strategic essay in Ideas for Enduring Advantage;
-- a guided thinking exercise in Decide+;
+- a guided thinking exercise inside Decide With CORE;
 - a visual demonstration on YouTube;
 - a reflective podcast episode; and/or
 - a deeper analytical case on Confluence of Enterprise Capabilities.
@@ -484,7 +515,8 @@ Commercial products and advisory offers should remain distinct from the editoria
 This document governs:
 
 - which channel serves which editorial role;
-- how channel names and purposes are described;
+- how public channel names and purposes are described;
+- the distinction between public channels and the owned community;
 - the distinction between channels;
 - native expression and anti-cannibalisation principles.
 
@@ -504,9 +536,9 @@ This document does not override:
 > **Signals & Strategy** interprets what is changing.  
 > **Decide** clarifies what is happening.  
 > **Ideas for Enduring Advantage** develops the strategic idea.  
-> **Decide+** teaches people how to think through it.  
+> **Decide With CORE** creates the member environment for deeper practice, participation and access.  
 > **Manufacturing Strategy Series** demonstrates it in the real world.  
 > **Strategic Systems Thinking** creates space for deeper reflection.  
 > **Confluence of Enterprise Capabilities** shows the evidence of how enduring organisations are built.
 
-Together they form one publishing system for the **Building Strategic Systems** school of thought.
+Together they form one public publishing system, with **Decide With CORE** as the owned environment in which the premium ecosystem, practice and member network compound.

@@ -1,5 +1,5 @@
 # CORE GTM / Funnel Architecture
-## Version 5.0
+## Version 5.0 — Community Reconciled
 
 ### Document Status
 
@@ -11,7 +11,7 @@ This is the GTM update following:
 - CORE Offer Architecture v5.0
 - CORE Message House v6.0
 
-The key change is that CORE is **state-based rather than price-funnel based**.
+The key change is that CORE is **state-based rather than price-funnel based**. The community introduces a deliberate membership eligibility rule for the ₹39,999 programme, without turning the wider ecosystem into a compulsory price sequence.
 
 The correct customer-state architecture is:
 
@@ -310,6 +310,30 @@ It does not promise market validation.
 
 ---
 
+# 10A. Decide With CORE Route
+
+### Trigger
+
+The prospect wants an ongoing environment rather than a one-off product: continued exposure, scenarios, premium material, participation, tools and relationships.
+
+### Product
+
+> **₹7,999 Decide With CORE**
+
+### Role
+
+The community is the owned environment that combines the premium expressions of the CORE ecosystem with participation, scenarios, live experiences and member-to-member value.
+
+### Commercial boundary
+
+It is not merely a payment gate for ₹39,999. It must provide independent value.
+
+### Eligibility consequence
+
+Community membership makes the customer eligible to purchase the ₹39,999 programme when Idea-state qualification is satisfied.
+
+---
+
 # 11. ₹39,999 Route
 
 ### Trigger
@@ -318,7 +342,7 @@ The prospect already has an idea or meaningful growth opportunity.
 
 ### Entry
 
-Direct qualification or appropriate transition from ₹499.
+**Authenticated Decide With CORE membership** plus qualification for an Idea-state market problem. The community is independently acquirable; a ₹499 customer may transition into it, but ₹499 is not a prerequisite.
 
 ### Product
 
@@ -458,6 +482,8 @@ The GTM system allows:
 
 ### Idea
 
+→ Decide With CORE
+
 → ₹39,999
 
 ### Mature organisation
@@ -577,6 +603,10 @@ The three offers create different commercial value.
 
 > **Creates an idea from a signal.**
 
+### ₹7,999 Decide With CORE
+
+> **Creates an ongoing environment for deeper learning, participation, scenarios, premium content and relationships.**
+
 ### ₹39,999
 
 > **Creates a market path from an idea.**
@@ -587,7 +617,9 @@ The three offers create different commercial value.
 
 Therefore:
 
-> **₹499 creates opportunity awareness.**
+> **₹499 creates a structured opportunity.**
+
+> **₹7,999 creates the environment for continued capability and participation.**
 
 > **₹39,999 creates market-building capability.**
 

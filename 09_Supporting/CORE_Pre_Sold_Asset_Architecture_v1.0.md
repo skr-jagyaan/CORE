@@ -40,6 +40,8 @@ The current GTM architecture establishes a state-based market:
 
 > **SIGNAL → IDEA → MARKET → ORGANISATION**
 
+The owned community now provides a deeper environment between one-off entry and Idea → Market application.
+
 with corresponding offers:
 
 > **Signal → ₹499**
@@ -147,20 +149,19 @@ A person can enter at any point.
 
 # 5. THE CHANNEL ARCHITECTURE
 
-The eight channels are assigned different jobs.
+The public publishing system has seven channels. The owned community is a separate environment and should not be counted as another public publishing channel.
 
-| Channel | Primary job | Depth | Relationship | Canonical? | Main audience state |
+| Public channel | Primary job | Depth | Relationship | Canonical? | Main audience state |
 |---|---|---:|---:|---:|---|
-| **1. Free YouTube** | Demonstrate thinking | High | Medium | No | Signal / Idea |
-| **2. Free Newsletter** | Nurture + recurring worldview | Medium/High | High | No | Signal / Idea |
-| **3. Medium** | Reach + essay discovery | Medium/High | Low/Medium | No | Signal |
-| **4. Personal Blog** | Canonical intellectual library | Very High | Medium | **Yes** | All states |
-| **5. Paid Newsletter** | Advanced interpretation + practical depth | Very High | Very High | No | Idea / Market |
-| **6. Paid Community** | Applied interaction + peer learning + proof | Very High | **Very High** | No | Idea / Market / Organisation |
-| **7. Free Substack** | Public subscriber layer + archive/distribution | Medium/High | High | No | Signal / Idea |
-| **8. Podcast** | Voice, judgment, trust, long-form conversation | High | High | No | Signal / Idea / Market |
+| **1. YouTube — Manufacturing Strategy Series** | Demonstrate thinking | High | Medium | No | Signal / Idea |
+| **2. Decide** | Business situation interpretation | Medium/High | High | No | Signal / Idea |
+| **3. Medium — Ideas for Enduring Advantage** | Reach + essay discovery | Medium/High | Low/Medium | No | Signal / Idea |
+| **4. Personal Blog — Confluence of Enterprise Capabilities** | Canonical intellectual library | Very High | Medium | **Yes** | All states |
+| **5. Substack — Signals & Strategy** | Ongoing signal interpretation | Medium/High | High | No | Signal / Idea |
+| **6. Podcast — Strategic Systems Thinking** | Voice, judgment and reflection | High | High | No | Signal / Idea / Market |
+| **7. LinkedIn — Sudharsan K R** | Distribution, conversation and relationship | Variable | High | No | All states |
 
-This prevents eight channels from becoming eight versions of the same content.
+This prevents seven public channels plus the owned community from becoming multiple versions of the same content.
 
 ---
 
@@ -360,27 +361,27 @@ A prospect should feel:
 
 ---
 
-# 10. CHANNEL 5 — PAID NEWSLETTER
+# 10. PREMIUM MEMBER PUBLICATION LAYERS
 
-## Job
+## Role
 
-> **Convert intellectual trust into recurring practical value.**
+The community contains the premium member expressions of the public publication system. A separate paid newsletter is not required for the current community model.
 
-The free newsletter creates:
+The public publication system creates:
 
 > interest + worldview familiarity.
 
-The paid newsletter creates:
+The community premium layer creates:
 
-> depth + practical interpretation + recurring strategic usefulness.
+> depth + practical interpretation + participation + application.
 
 ### Audience
 
 Primarily:
 
-> **Idea → Market**
+> **People moving from Signal / Idea toward deeper application.**
 
-with some mature leaders.
+The member environment can also serve mature leaders where the material is relevant.
 
 ### Best assets
 
@@ -392,19 +393,19 @@ with some mature leaders.
 - Test Design Note
 - Monthly Strategic Review
 
-### Pre-sale function
+### Member-value function
 
 Create:
 
-> **“CORE is useful to me repeatedly, not just interesting once.”**
+> **“CORE is useful to me repeatedly, not just interesting once — and I can participate rather than only read.”**
 
 ### Boundary
 
-Do not make it the ₹39,999 course delivered by email.
+Do not turn the premium member layer into the ₹39,999 course delivered by email.
 
 It should provide:
 
-> **ongoing intelligence and interpretation**
+> **ongoing intelligence, interpretation and participation**
 
 rather than:
 
@@ -412,11 +413,11 @@ rather than:
 
 ---
 
-# 11. CHANNEL 6 — PAID COMMUNITY
+# 11. DECIDE WITH CORE — OWNED COMMUNITY ENVIRONMENT
 
 ## Job
 
-> **Turn intellectual consumption into participation, application, relationship and proof.**
+> **Turn intellectual consumption into participation, application, relationship and accumulated value.**
 
 It should not be:
 
@@ -424,7 +425,7 @@ It should not be:
 
 It should be:
 
-> **a strategic practice environment.**
+> **an owned environment for premium content, practice, scenarios, relationships and application.**
 
 ### Possible assets
 
@@ -481,7 +482,7 @@ The community can progressively create:
 
 ---
 
-# 12. CHANNEL 7 — FREE SUBSTACK
+# 12. SUBSTACK — SIGNALS & STRATEGY
 
 ## Job
 
@@ -493,7 +494,7 @@ This overlaps with a free newsletter, so it must have a different role.
 
 > **Primary owned relationship channel.**
 
-### Free Substack
+### Substack — Signals & Strategy
 
 > **Public subscription / archive / discovery layer for selected intellectual work.**
 
@@ -522,7 +523,7 @@ It should function as:
 
 ---
 
-# 13. CHANNEL 8 — PODCAST
+# 13. PODCAST — STRATEGIC SYSTEMS THINKING
 
 ## Job
 
@@ -570,7 +571,7 @@ Reconstruct a strategic choice.
 Especially useful before:
 
 - ₹39,999;
-- paid community;
+- continued community participation;
 - ₹5L advisory.
 
 ---
@@ -596,7 +597,7 @@ CANONICAL BLOG ESSAY
        ├── Medium adaptation
        ├── Substack adaptation
        ├── LinkedIn posts
-       ├── Paid newsletter expansion
+       ├── Community premium expansion
        ├── Community discussion
        └── Case / guide / deeper asset
 ```
@@ -645,7 +646,7 @@ Substack:
 
 > serialized/public version.
 
-Paid newsletter:
+Community premium layer:
 
 > deeper implication + decision memo.
 
@@ -835,7 +836,6 @@ Best assets:
 - opportunity teardowns;
 - What Would Have to Be True?;
 - test-selection demonstrations;
-- paid newsletter;
 - Strategic Room.
 
 Desired belief:
@@ -938,7 +938,7 @@ Do not use the same CTA everywhere.
 
 > **Think about your own situation.**
 
-### Free newsletter
+### Decide — Free newsletter
 
 > **Reply / reflect / continue the conversation.**
 
@@ -950,17 +950,15 @@ Do not use the same CTA everywhere.
 
 > **Explore the related body of thought.**
 
-### Free Substack
+### Substack — Signals & Strategy
 
 > **Subscribe to the publication.**
 
-### Paid newsletter
+### Decide With CORE
 
-> **Go deeper / apply / discuss.**
+> **Join the deeper environment / bring your situation into the room.**
 
-### Paid community
 
-> **Bring your situation into the room.**
 
 ### Podcast
 
@@ -1070,7 +1068,7 @@ The Conversation Engine explicitly defines this loop from conversation through o
 
 # 25. BUILD ORDER
 
-Do not launch all eight channels at full intensity.
+Do not launch all seven public channels plus the community at full intensity.
 
 ## Layer 1 — Core public engine
 
@@ -1081,13 +1079,22 @@ Do not launch all eight channels at full intensity.
 ## Layer 2 — Reach / syndication
 
 - Medium
-- Free Substack
+- Substack
 - Podcast
 
-## Layer 3 — Depth / monetization
+## Community foundation
 
-- Paid newsletter
-- Paid community
+- Decide With CORE
+- Decide+
+- Scenario Engine
+- Community rituals
+- Member network/value layer
+
+## Layer 3 — Membership / depth
+
+- Decide With CORE
+- premium member expressions of the public publications
+- Decide+
 
 This creates a manageable operating system.
 

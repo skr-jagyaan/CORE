@@ -1,4 +1,4 @@
-# CORE™ Source of Truth Consolidation & Reconciliation Register v1.1
+# CORE™ Source of Truth Consolidation & Reconciliation Register v1.1 — Community Reconciled
 
 ## 1. Purpose
 
@@ -11,7 +11,7 @@ Its purpose is to identify:
 - which documents are implementation specifications;
 - which documents are historical / superseded;
 - which documents require reconciliation;
-- which documents still need to be created.
+- which documents still need to be created or require explicit reconciliation.
 
 This document does **not** rewrite the underlying strategy or methodology.
 
@@ -366,6 +366,30 @@ It should remain the production/propagation mechanism rather than becoming a sep
 
 **Action:** Retain as modules; they do not require separate master OS status.
 
+## 8.6 CORE Channel Architecture v1.0
+
+**Status:** 🔒 CURRENT / PUBLIC CHANNEL GOVERNANCE
+
+**Role:** Governs the seven public publishing channels and their editorial boundaries.
+
+**Reconciled position:** Decide+ is not a standalone public channel. It is a premium capability inside Decide With CORE. The community is an owned environment rather than a public publishing channel.
+
+## 8.7 CORE Education, Trust & Organising Architecture
+
+**Status:** 🔒 CURRENT / EDUCATION + TRUST DOMAIN
+
+**Role:** Governs how CORE creates recognition, interpretation, agency, trust, belonging and action across the full customer journey.
+
+**Reconciled position:** The education system now serves the full journey from signal/opportunity through market and organisational capability, while retaining the mature-company organising narrative for the ₹5L transformation.
+
+## 8.8 CORE Pre-Sold Asset Architecture v1.0
+
+**Status:** 🔒 CURRENT / PRE-SOLD ASSET DOMAIN
+
+**Role:** Governs how public channels and the owned community create pre-sale belief and readiness without duplication or cannibalisation.
+
+**Reconciled position:** Seven public channels are distinguished from the community; premium member expressions, Decide+ and participation are governed as part of the community layer.
+
 ---
 
 # 9. DEMAND / VISIBILITY
@@ -420,9 +444,95 @@ and a state-based GTM rather than a price-funnel architecture.
 
 ---
 
-# 10. DELIVERY + PROOF + LEARNING
+# 10. COMMUNITY / OWNED EXPERIENCE
 
-## 10.1 CORE Delivery + Proof + Learning OS v1.0
+## 10.1 CORE Community Architecture v1.0
+
+**Status:** 🔒 CURRENT / GOVERNING COMMUNITY DOMAIN
+**Role:** Defines the purpose, identity, experience, premium ecosystem, community mechanisms and commercial relationship of Decide With CORE.
+
+**Canonical position:**
+
+> **Decide With CORE = the owned environment in which the broader CORE ecosystem becomes participatory, useful and compounding.**
+
+The community helps members become better at:
+
+> **seeing signals → finding opportunities → developing ideas → entering markets → building products → building enduring organisations**
+
+**Action:** Treat as the governing community domain under the Offer / Client Experience master OS.
+
+## 10.2 CORE Community Membership & Commercial Architecture v1.0
+
+**Status:** 🔒 CURRENT / COMMUNITY COMMERCIAL MODULE
+
+**Canonical commercial position:**
+
+- ₹7,999 = Decide With CORE one-time access.
+- The community is independently valuable and is not merely a gate for ₹39,999.
+- ₹39,999 Idea → Market is available only to authenticated community members.
+- ₹5L remains independently acquirable by qualified organisations.
+
+**Action:** Use this document for community commercial rules.
+
+## 10.3 CORE Community Premium Content Architecture v1.0
+
+**Status:** 🟢 ACTIVE / COMMUNITY CONTENT MODULE
+
+**Role:** Governs premium/member expressions of the public ecosystem.
+
+**Key rule:**
+
+> **Public = recognition and useful insight; Member = depth, context, participation and application.**
+
+**Action:** Keep public channel roles governed by the Channel Architecture; use this module for the premium layer inside the community.
+
+## 10.4 CORE Community Experience & Rituals v1.0
+
+**Status:** 🟢 ACTIVE / COMMUNITY EXPERIENCE MODULE
+
+**Role:** Governs recurring community experiences, rituals, participation patterns and member practices.
+
+## 10.5 CORE Scenario Engine v1.0
+
+**Status:** 🟢 ACTIVE / COMMUNITY PRACTICE MODULE
+
+**Role:** Governs the scenario mechanism used to create repeated practice in reasoning under uncertainty.
+
+Canonical pattern:
+
+> **Situation → Choice → Position → New information → Reassessment → Learning**
+
+## 10.6 CORE Community Network & Value Engine v1.0
+
+**Status:** 🟢 ACTIVE / COMMUNITY NETWORK MODULE
+
+**Role:** Governs member-to-member value, reciprocity, network density, useful introductions and the transition from founder-centred to network-centred value.
+
+## 10.7 CORE Member Journey & Progression v1.0
+
+**Status:** 🟢 ACTIVE / CUSTOMER JOURNEY MODULE
+
+**Role:** Governs movement between public presence, ₹499, Decide With CORE, Decide+, ₹39,999 and ₹5L based on customer state and need.
+
+**Canonical access logic:**
+
+> **Public → ₹499 / Community / ₹5L as appropriate**
+> 
+> **Community membership → eligibility for ₹39,999**
+
+## 10.8 CORE Community Platform & Delivery Specification v1.0
+
+**Status:** 🟢 ACTIVE / IMPLEMENTATION SPECIFICATION
+
+**Role:** Translates the community architecture into owned-web / Graphy-compatible implementation.
+
+**Action:** Platform remains downstream of the community architecture and commercial rules.
+
+---
+
+# 11. DELIVERY + PROOF + LEARNING
+
+## 11.1 CORE Delivery + Proof + Learning OS v1.0
 
 **Status:** 🔒 CURRENT
 
@@ -448,7 +558,7 @@ QUALIFIED NEED
 
 ---
 
-## 10.2 Decision + Evidence Register
+## 11.2 Decision + Evidence Register
 
 **Status:** 🔒 CURRENT / REGISTER
 
@@ -458,7 +568,7 @@ QUALIFIED NEED
 
 ---
 
-## 10.3 Proof / Testimonial / Case Assets
+## 11.3 Proof / Testimonial / Case Assets
 
 **Status:** 🟢 ACTIVE / ASSET FAMILY
 
@@ -466,7 +576,7 @@ QUALIFIED NEED
 
 ---
 
-# 11. ASSET REGISTER
+# 12. ASSET REGISTER
 
 ## CORE Asset Register v1.0
 
@@ -488,11 +598,11 @@ LEVEL 5 — EXECUTION INSTANCE
 
 ---
 
-# 12. DOCUMENTS REQUIRING RECONCILIATION
+# 13. DOCUMENTS REQUIRING RECONCILIATION
 
 The current architecture has a small number of known reconciliation points.
 
-### 12.1 GTM wording
+### 13.1 GTM wording
 
 Some older GTM files use:
 
@@ -506,7 +616,7 @@ The current canonical wording is:
 
 ---
 
-### 12.2 Positioning versions
+### 13.2 Positioning versions
 
 Older Positioning v3 material exists alongside the later v4 architecture.
 
@@ -514,7 +624,7 @@ Older Positioning v3 material exists alongside the later v4 architecture.
 
 ---
 
-### 12.3 Offer versions
+### 13.3 Offer versions
 
 Offer Architecture v4 exists alongside v5.0.
 
@@ -522,7 +632,7 @@ Offer Architecture v4 exists alongside v5.0.
 
 ---
 
-### 12.4 Sprint versions
+### 13.4 Sprint versions
 
 The older pipeline-first sprint remains in the Library.
 
@@ -530,7 +640,7 @@ The older pipeline-first sprint remains in the Library.
 
 ---
 
-### 12.5 Content architecture references
+### 13.5 Content architecture references
 
 Earlier documents may contain older version references to supporting content architecture documents.
 
@@ -538,7 +648,17 @@ Earlier documents may contain older version references to supporting content arc
 
 ---
 
-# 13. CURRENT MASTER SET
+### 13.6 Community reconciliation
+
+The community decisions made after v1.1 are now governed by the community domain documents listed in Section 10.
+
+Canonical relationship:
+
+> **₹499 → Decide With CORE (₹7,999) → ₹39,999 Idea → Market**
+
+The community is a governed domain beneath Offer / Client Experience, not a seventh master OS. Decide+ is a premium capability inside the community rather than a standalone public publishing channel. The seven public channels remain governed by `CORE_Channel_Architecture_v1.0.md`.
+
+# 14. CURRENT MASTER SET
 
 The operational master set should therefore be treated as:
 
@@ -560,7 +680,7 @@ Items 9–11 are registers/control documents, not additional business OSs.
 
 ---
 
-# 14. WHAT STILL NEEDS TO BE CREATED
+# 15. WHAT STILL NEEDS TO BE CREATED
 
 At this point, the major architectural work is substantially covered.
 
@@ -580,7 +700,7 @@ The next likely work is therefore:
 
 ---
 
-# 15. GOVERNANCE RULE
+# 16. GOVERNANCE RULE
 
 A document is not authoritative because it is newer, longer or more detailed.
 
@@ -598,7 +718,7 @@ Do not silently rewrite source truth.
 
 ---
 
-# 16. FINAL ARCHITECTURAL POSITION
+# 17. FINAL ARCHITECTURAL POSITION
 
 CORE should become a **coherent operating system**, not a growing pile of documents.
 
